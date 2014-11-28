@@ -1,0 +1,9 @@
+/nbproject/
+/vendor/
+/bin/
+/composer.phar
+/composer.lock
+/npm-debug.log
+/data.txt
+/node_modules/
+/spool/
